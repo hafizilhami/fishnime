@@ -9,10 +9,10 @@ The platform is powered by the Sankanime REST API, enabling dynamic data fetchin
 This project focuses on building a fully interactive frontend application with advanced state management, real-time search functionality, and seamless user navigation.
 
 ## Live Demo
-[S2U Fansite Website](https://fishnime.vercel.app/)
+[Fishnime Website](https://fishnime.vercel.app/)
 
 ## Preview
-![S2U Fansite Preview](fishnime_dashboard.png)
+![Fishnime Preview](fishnime_dashboard.png)
 
 Key Features:
 
